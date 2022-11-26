@@ -13,7 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 👨‍💻 All of my projects are available at [https://codexpuneet.github.io/](https://codexpuneet.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://codexpuneet.github.io/)
+
+-  📄 This is [My Resume](https://drive.google.com/file/d/133sXzhjMvI_z9-2lIGLfIQORx5cdiwrp/view?usp=share_link)
 
 - 💬 Ask me about **anything, I am happy to help;**
 
