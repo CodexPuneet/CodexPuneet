@@ -42,11 +42,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexpuneet" alt="codexpuneet" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/puneet-srivastava7" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/linkedin-2.png" alt="puneet-srivastava7" height="30" width="40" /></a>
 <a href="https://codesandbox.com/srivastavap7144" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/feather-5/24/codesandbox-512.png" alt="srivastavap7144" height="30" width="40" /></a>
 <a href="https://instagram.com/crazy_engineer" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/null/instagram-new.png" alt="crazy_engineer" height="30" width="40" /></a>
-  <a href="https://wa.me/+917607147144"><img width='10px' src="https://img.icons8.com/color/48/null/whatsapp--v1.png" alt="Whats app"/></a>
+  <a href="https://wa.me/+917607147144"><img width='24px' src="https://img.icons8.com/color/48/null/whatsapp--v1.png" alt="Whats app"/></a>
 </p>
 
 <h2 align='left'>Thank You ❤</h2>
