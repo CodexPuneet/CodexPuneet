@@ -9,7 +9,7 @@
 </br>
 - 🔭 I’m currently working on **Frontend and Backend technologies**
 
-- 🌱 I’m currently learning **React, Express, NodeJs, MongoDb at Masai School.**
+- 🌱 I’ve worked on **React, Express, NodeJs, MongoDb at Masai School.**
 
 - 👯 I’m looking to collaborate on **Projects**
 
